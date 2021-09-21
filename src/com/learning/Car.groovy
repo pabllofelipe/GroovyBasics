@@ -1,6 +1,6 @@
 package com.learning
 
-class Car {
+abstract class Car {
     String name
     int model
     String color
@@ -28,4 +28,6 @@ class Car {
     void setColor(String color) {
         this.color = color
     }
+
+    abstract def topSpeed(int speed)
 }

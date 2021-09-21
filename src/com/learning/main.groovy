@@ -2,14 +2,16 @@ package com.learning
 
 static void main(args){
     Student student = new Student()
-    Car car = new Car()
     Fruits fruit = new Fruits()
     def read = {System.in.newReader().readLine()}
     println("What do you want to save?")
     switch (read.call()){
-        case "car":
+        case "toyota":
+            Toyota car = new Toyota()
             println("Type de name of car: ")
             car.setName(read.call())
+            println("Type maxspeed")
+            car.setMaxspeed(read.call() as Integer)
             println("Type de model of car: ")
             car.setModel(read.call() as Integer)
             println("Type de color of car: ")

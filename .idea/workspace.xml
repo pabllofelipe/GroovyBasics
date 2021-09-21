@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d07e0c74-1fa1-434d-9d8e-b06d5f553097" name="Changes" comment="Some basic programs">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="d07e0c74-1fa1-434d-9d8e-b06d5f553097" name="Changes" comment="gitignore changes">
+      <change afterPath="$PROJECT_DIR$/src/com/learning/Toyota.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GroovyBasics/com/learning/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroovyBasics/com/learning/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GroovyBasics/com/learning/main$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroovyBasics/com/learning/main$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GroovyBasics/com/learning/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GroovyBasics/com/learning/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learning/Car.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learning/Car.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learning/main.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learning/main.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1yQys5fzolISIgQo3LkRnSvFpiE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -92,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632199541463</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Some basic programs">
+      <created>1632199610732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632199610733</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gitignore changes">
+      <created>1632199704060</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632199704060</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Some basic programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some basic programs" />
+    <MESSAGE value="gitignore changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore changes" />
   </component>
 </project>
